@@ -1,22 +1,39 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Athul Kartha</h1> <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
-📌 About Me
-🎓 Diploma student who loves building tools and apps from scratch
-🎥 Building LiteCast, a lightweight OBS-style recorder and streamer (Python + ffmpeg)
-🎵 Building a Discord bot that plays Spotify-linked music in voice chat
-🌱 Learning more about frontend, backend and AI every day
-🚀 Projects
-LiteCast: lightweight screen recorder and streamer with preview, scenes, overlays and Twitch/YouTube streaming
-Discord Music Bot: plays Spotify-linked music in voice channels
-📊 GitHub Stats & Trophies
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=athulkartha&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="athulkartha's GitHub Stats" width="49%" /> <img src="https://streak-stats.demolab.com/?user=athulkartha&theme=nightowl&hide_border=true&cache_seconds=86400" alt="athulkartha's GitHub Streak" width="49%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulkartha&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=athulkartha&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Athul Kartha's GitHub Trophies" /> </p> <p align="center"> <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=athulkartha&theme=nightowl&radius=10" alt="athulkartha's Activity Graph" /> </p>
-🛠️ Languages & Tools
-Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
-Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /></p>
-Backend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /></p>
-Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" alt="Discord" width="48" height="48" style="margin: 4px;" /></p>
-🔗 Connect with Me
-<p align="center"> <a href="https://github.com/athulkartha" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://www.instagram.com/YOUR-INSTAGRAM" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" alt="Instagram" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://discord.com/users/YOUR-DISCORD-ID" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" alt="Discord" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:YOUR-EMAIL@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Email" width="40" height="40" style="margin: 0 8px;"/></a> </p> <p align="center"><sub>Athul Kartha · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Athul%20Kartha&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Builder%20%7C%20Student%20%7C%20Always%20Learning&descAlignY=58&descSize=18" alt="Banner" width="100%" />
+
+<h1 align="center">Hey 👋 I'm Athul Kartha</h1>
+
+## 📌 About Me
+- 🎓 Diploma student who loves building tools and apps from scratch
+- 🌱 Learning more about frontend, backend and AI every day
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=athulkartha&show_icons=true&theme=nightowl&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=athulkartha&theme=nightowl&hide_border=true" alt="GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulkartha&layout=compact&theme=nightowl&hide_border=true&langs_count=10" alt="Top Languages" />
+</p>
+
+## 🛠️ Languages & Tools
+
+> ## Programming Languages
+<p align="center"><img src="https://skillicons.dev/icons?i=py,js,java,cpp" alt="Languages" /></p>
+
+> ## Frontend
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend" /></p>
+
+> ## Backend
+<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,py" alt="Backend" /></p>
+
+> ## Tools
+<p align="center"><img src="https://skillicons.dev/icons?i=git,vscode,discord" alt="Tools" /></p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://github.com/athulkartha"><img src="https://img.shields.io/badge/GitHub-athulkartha-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://discord.com/users/YOUR-DISCORD-ID"><img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
